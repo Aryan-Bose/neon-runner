@@ -60,8 +60,8 @@ neon-runner/
 ├── style.css
 ├── .gitignore
 ├── README.md
-└── js/
-    └── game.js
+└── game.js
+    
 ```
 
 ---
