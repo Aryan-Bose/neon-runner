@@ -1,0 +1,54 @@
+# ===============================
+# OS / SYSTEM FILES
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# EDITORS / IDEs
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# NODE / PACKAGE FILES (if added later)
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===============================
+# BUILD / DIST (if you ever add bundlers)
+# ===============================
+dist/
+build/
+
+# ===============================
+# ENVIRONMENT FILES
+# ===============================
+.env
+.env.local
+.env.*
+
+# ===============================
+# LOG FILES
+# ===============================
+*.log
+
+# ===============================
+# TEMP / CACHE
+# ===============================
+.cache/
+.tmp/
+
+# ===============================
+# OPTIONAL: LARGE MEDIA / EXPORTS
+# (Uncomment if needed)
+# ===============================
+# *.mp4
+# *.gif
+# *.zip
